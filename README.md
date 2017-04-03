@@ -1,7 +1,5 @@
 # cherry-mx-keycaps
 
-3D models of Chery MX keycaps
-
 This repo contains 3D models of Cherry MX keycaps; widths included 1x1 through 1x2.5 for rows R1 through R4.
 
 Dimensions were based off of those provided on the [wasdkeyboards](http://www.wasdkeyboards.com/) site as well as manualy checking them with calipers.
