@@ -1,6 +1,8 @@
 # cherry-mx-keycaps
 
-:warning: this is the thick-walled version of the keys, better suited for machining out of material like wood. For the thin-walled version of keys, more representative of the injected molded parts, visit the [thin-walled master branch]().
+:warning: 
+
+This is the thick-walled version of the keys which are better suited for machining out of material like wood. For the thin-walled version of keys, more representative of the injected molded parts, visit the [thin-walled master branch]().
 
 ---
 
